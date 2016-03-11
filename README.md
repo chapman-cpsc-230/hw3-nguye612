@@ -12,7 +12,7 @@ _\<we had to create a program to draw stars and polygons. We had to fix round of
 
 ## What I Learned from This
 
-_\<I now have a better understanding of statements.\>_
+_\<I now have a better understanding of Boolean statements.\>_
 
 ## Honor Pledge
 
