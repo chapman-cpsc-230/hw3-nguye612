@@ -12,7 +12,7 @@ C = 41
 C == 40
 #False, Value is 41.
 C != 40 and C < 41
-#True, The value of C is not equal to 40 and is less than 41.
+#False, The value of C is not equal to 40 and is equal to 41.
 C != 40 or C < 41
 #True, The value of C is either not equal to 40 or less than 41.
 not C == 40
