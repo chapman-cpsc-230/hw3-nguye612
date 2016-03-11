@@ -1,18 +1,18 @@
-# First Programming Exercises
+# Third Programming Exercises
 
  [![License](http://img.shields.io/badge/license-MIT-blue.svg)](http://en.wikipedia.org/wiki/MIT_License)
 
-**Author:** _\<your name\>_
+**Author:** _\<Stephanie Nguyen\>_
 
-**Due date:** _\<date\>_
+**Due date:** _\<March 11\>_
 
 ## Description
 
-_\<Give a description of the assignment here. Often this will be copied from the text.\>_
+_\<we had to create a program to draw stars and polygons. We had to fix round off errors.\>_
 
 ## What I Learned from This
 
-_\<Explain what you learned from this assignment. This should be in your own words.\>_
+_\<I now have a better understanding of statements.\>_
 
 ## Honor Pledge
 
@@ -23,4 +23,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-_\<your name\>_
+_\<Stephanie Nguyen\>_
