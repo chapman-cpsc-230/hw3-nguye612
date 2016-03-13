@@ -7,6 +7,11 @@ License: MIT
 
 <Determining round off errors and applying square root function.>
 """
+
+### MAM: Programmers use angle brackets as part of the text to be replaced. So you should write:
+### File: repeated_sqrt.py
+### etc.
+
 from math import sqrt
 for n in range(1,60):
    r = 2.0
@@ -30,3 +35,6 @@ print '%d times sqrt and **2: %.16f' % (n,r)
 #the square root of a number n times then squares number n times. In the end
 #the result is the same number you started with. The loop repeats 59 times
 #which results in a round off error or bug.
+
+### MAM: This explanation does not really say what happens. Specifically, you say
+### "In the end, the result is the same number you started with". That's not true.
